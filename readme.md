@@ -1,3 +1,5 @@
+# Superceded by [Xesau/Plugins](https://www.github.com/Xesau/Plugins)
+
 # Xesau\Events
 
 Events is a lightweight library for event handling and hooks in PHP applications.
